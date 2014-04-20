@@ -1,0 +1,2 @@
+./pushgithub.sh
+./pushherokumaster.sh
